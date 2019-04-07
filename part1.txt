@@ -34,3 +34,9 @@ There are 11 attributes to each set and the  order goes:
 
 Output: Would be the poker hand that you have depending on the five cards you have in your hand.
 
+Machine Learning Technique:
+
+Naive Bayes
+https://scikit-learn.org/stable/modules/naive_bayes.html
+
+K-Nearest Neighbors
